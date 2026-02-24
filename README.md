@@ -3,28 +3,34 @@
 ---
 ##  About Me  
 
-- I’m currently working on **modern web development projects** and **AI-powered software**.  
-- I love collaborating on **open-source projects, AI tools, and innovative web apps**.  
-- Learning **advanced AI algorithms** and **cloud deployment**.  
-- Currently exploring **React, Node.js, and Machine Learning**.  
-- Fun fact: I once counted from **1 to 1 million** for my **AI Virtual GF project** 😄.  
-
+- Passionate developer focused on **modern web technologies** and **AI-powered software**  
+- Love collaborating on **open-source projects**, **AI tools**, and **innovative web apps**  
+- Currently learning **advanced AI algorithms** and **cloud deployment**  
+- Exploring **React**, **Node.js**, and **Machine Learning**  
+- Fun fact: I counted from **1 to 1,000,000** for my **AI Virtual GF project** 😄  
 ---
-
-## 💻 Tech Stack  
-
 <p align="center">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F6FF&center=true&vCenter=true&width=520&lines=⚡+Tech+Stack+%26+Tools+⚡"/>
 </p>
 
+<!-- Languages / Skills -->
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,c,cpp" height="60"/>
+</p>
+
+<!-- Tools -->
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,flutter,arduino,androidstudio" height="60"/>
+</p>
+
+<!-- Animated Divider -->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216649436-05c9b2c3-0c9b-4c52-b0d7-3d6e1f4c0a8b.gif" width="150"/>
+</p>
+
+
 ---
+
 ##  GitHub Stats  
 
 
@@ -33,19 +39,42 @@
 </p>
 
 ---
-
-## 🌐 Connect With Me  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F6FF&center=true&vCenter=true&width=520&lines=🌐+Connect+With+Me+🌐"/>
+</p>
 
 <p align="center">
-<a href="https://bsky.app/profile/mhhridoy7907.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/></a>
-<a href="https://wa.me/8801962388570"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://www.facebook.com/mh.hridoy.567130"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://pinterest.com/mhhridoy7907"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/></a>
-<a href="https://tiktok.com/@mh2hridoy__"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
-<a href="https://twitch.tv/mhhridoy7907"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-<a href="https://x.com/@mhhridoy7907"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://www.youtube.com/@mh2_hridoy"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="mailto:mhhridoy7907@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://bsky.app/profile/mhhridoy7907.bsky.social">
+<img src="https://cdn.simpleicons.org/bluesky" height="48"/>
+</a>
+<a href="https://wa.me/8801962388570">
+<img src="https://cdn.simpleicons.org/whatsapp" height="48"/>
+</a>
+<a href="https://www.facebook.com/mh.hridoy.567130">
+<img src="https://cdn.simpleicons.org/facebook" height="48"/>
+</a>
+<a href="https://pinterest.com/mhhridoy7907">
+<img src="https://cdn.simpleicons.org/pinterest" height="48"/>
+</a>
+<a href="https://tiktok.com/@mh2hridoy__">
+<img src="https://cdn.simpleicons.org/tiktok" height="48"/>
+</a>
+<a href="https://twitch.tv/mhhridoy7907">
+<img src="https://cdn.simpleicons.org/twitch" height="48"/>
+</a>
+<a href="https://x.com/@mhhridoy7907">
+<img src="https://cdn.simpleicons.org/x" height="48"/>
+</a>
+<a href="https://www.youtube.com/@mh2_hridoy">
+<img src="https://cdn.simpleicons.org/youtube" height="48"/>
+</a>
+<a href="mailto:mhhridoy7907@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail" height="48"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216649452-6e7b3d0a-5c2a-4b9a-9f37-0c64f7a3b5f0.gif" width="170"/>
 </p>
 
 ---
