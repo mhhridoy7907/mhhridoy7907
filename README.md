@@ -27,6 +27,14 @@
 </p>
 
 ---
+##  GitHub Stats  
+
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhhridoy7907&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
 
 ## 🌐 Connect With Me  
 
@@ -41,20 +49,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats  
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mhhridoy7907&show_icons=true&theme=radical" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhhridoy7907&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhhridoy7907&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 🚀 Featured Projects  
 
 ### 🤖 AI Virtual GF  
