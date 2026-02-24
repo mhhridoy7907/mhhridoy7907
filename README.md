@@ -1,13 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F6FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+MURAD+HASAN+HRIDOY;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
 
 ---
-##  About Me  
-
-- Passionate developer focused on **modern web technologies** and **AI-powered software**  
-- Love collaborating on **open-source projects**, **AI tools**, and **innovative web apps**  
-- Currently learning **advanced AI algorithms** and **cloud deployment**  
-- Exploring **React**, **Node.js**, and **Machine Learning**  
-- Fun fact: I counted from **1 to 1,000,000** for my **AI Virtual GF project** 😄  
 ---
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F6FF&center=true&vCenter=true&width=520&lines=⚡+Tech+Stack+%26+Tools+⚡"/>
