@@ -73,6 +73,8 @@
 </p>
 
 ---
+
+---
 ## 🚀 Featured Projects  
 
 ### 🤖 AI Virtual GF  
