@@ -1,6 +1,7 @@
+![privew](mh2HridoyGithub.jpg)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F6FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+MURAD+HASAN+HRIDOY;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
 
----
 ---
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F6FF&center=true&vCenter=true&width=520&lines=⚡+Tech+Stack+%26+Tools+⚡"/>
@@ -20,9 +21,6 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216649436-05c9b2c3-0c9b-4c52-b0d7-3d6e1f4c0a8b.gif" width="150"/>
 </p>
-
-
----
 
 ---
 
@@ -74,7 +72,6 @@
 
 ---
 
----
 ## 🚀 Featured Projects  
 
 ### 🤖 AI Virtual GF  
