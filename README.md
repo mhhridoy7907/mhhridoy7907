@@ -24,11 +24,22 @@
 
 ---
 
-##  GitHub Stats  
-
+##  GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhhridoy7907&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mhhridoy7907&show_icons=true&theme=radical&hide_border=true&title_color=%2300f600&icon_color=%2300f600&text_color=%2300f600&bg_color=%23000000" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhhridoy7907&theme=radical&hide_border=true&stroke=%2300f600&background=%23000000" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhhridoy7907&layout=compact&theme=radical&hide_border=true&title_color=%2300f600&text_color=%2300f600&bg_color=%23000000" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mhhridoy7907&theme=radical&row=1&column=6&no-frame=true&no-bg=false&colors=00f600,00f600,ffffff" alt="GitHub Trophies"/>
 </p>
 
 ---
