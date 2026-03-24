@@ -27,22 +27,30 @@
 ##  GitHub Stats
 
 
-<p align="center">
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=mhhridoy7907&show_icons=true&theme=radical&hide_border=true&title_color=%2300f600&icon_color=%2300f600&text_color=%2300f600&bg_color=%23000000" />
 
-  <img align="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhhridoy7907&theme=radical&hide_border=true&stroke=%2300f600&background=%23000000" />
-</p>
-
-<br clear="both"/>
-
-
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhhridoy7907&layout=compact&theme=radical&hide_border=true&title_color=%2300f600&text_color=%2300f600&bg_color=%23000000" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mhhridoy7907&show_icons=true&theme=radical&hide_border=true&title_color=%2300f600&icon_color=%2300f600&text_color=%2300f600&bg_color=%23000000" />
+  
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhhridoy7907&theme=radical&hide_border=true&stroke=%2300f600&background=%23000000" />
 </p>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=mhhridoy7907&theme=github-compact&custom_title=Here%20is%20MH%20Hridoy's%20Contribution&hide_border=true&area=true&color=708090&line=ff69b4&point=dda0dd)
+<br>
 
+<h2 align="center">💻 Top Languages</h2>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhhridoy7907&layout=compact&theme=radical&hide_border=true&title_color=%2300f600&text_color=%2300f600&bg_color=%23000000" />
+</p>
+
+<br>
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhhridoy7907&theme=github-compact&custom_title=Here%20is%20MH%20Hridoy's%20Contribution&hide_border=true&area=true&color=708090&line=ff69b4&point=dda0dd" />
+</p>
 
 ---
 <p align="center">
