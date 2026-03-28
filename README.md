@@ -92,18 +92,71 @@
 </p>
 
 ---
+<br><br>
+# IT Skills & Soft Skills
 
-## 🚀 Featured Projects  
+### IT Skills
 
-### 🤖 AI Virtual GF  
-A romantic conversational AI chatbot with memory, personality, and Bangla voice.  
-**Tech:** HTML, CSS, JavaScript, PHP, MySQL  
+`Office & Productivity Tools:` Microsoft Word, Microsoft Excel,Microsoft PowerPoint
 
-### 🛠 Modern Web Tools  
-Collection of interactive web apps and UI experiments.  
+`Web Development:` HTML 5, CSS 3, JavaScript, PHP, SQL
 
-### ⚡ AI Utilities  
-Small AI-based productivity and automation tools.  
+`Ethical Hacking:` Basic knowledge of Cyber Security concepts, Ethical Hacking fundamentals, 
+Understanding of common security threats (Phishing, Malware, Brute Force, Social Engineering)
+
+`Digital Marketing:` SEO & Personal Branding
+
+`Artificial Intelligence & Automation: Prompt Engineering, AI Automation, AI Assistant Building`
+
+### Soft Skills
+`Communication:` Strong verbal and presentation skills, ensuring effective information exchange in a work environment
+
+`Time Management:` Ability to complete tasks within deadlines and prioritize work efficiently
+
+`Teamwork:` Experience working collaboratively in teams, coordinating and contributing effectively to multiple projects
+
+---
+<br><br>
+
+## 🚀 Featured Projects
+
+### 🤖 AI Virtual GF
+
+A romantic conversational AI chatbot with memory, personality, and Bangla voice.
+Tech: HTML, CSS, JavaScript, PHP, MySQL
+
+### 🛠 Modern Web Tools
+
+Collection of interactive web apps and UI experiments.
+
+### ⚡ AI Utilities
+
+Small AI-based productivity and automation tools.
+
+### 📱 WhatsApp Inbox Viewer
+
+View exported WhatsApp chats with a clean interface.
+
+### 🛰 ESP32 Radar System
+
+A hardware project using ESP32 for radar simulation.
+Tech: C++, Arduino
+
+### 🌐 Web Fun & Games
+
+Mini web-based games and playful interactive projects.
+
+### 🔧 Automation Scripts
+
+Scripts for automating tasks and improving workflow.
+
+### 🎨 Design Experiments
+
+Creative UI/UX experiments and frontend design challenges.
+
+### 💻 Miscellaneous Tech Experiments 
+
+Various tech experiments, learning projects, and prototypes.
 
 ---
 
