@@ -52,9 +52,11 @@
 ## 🎓HackerRank Certificates
 
 <p align="center">
-  <img src="certifi/mh2 hridoy javascript intermediate certificate.jpg" width="300"/>
-  <img src="certifi/mh2 hridoy problem solving intermediate certificate.jpg" width="300"/>
-  <img src="certifi/mh2 hridoy css certificate.jpg" width="300"/>
+  <img src="certifi/mh2 hridoy javascript intermediate certificate.jpg" width="700"/>
+  
+  <img src="certifi/mh2 hridoy problem solving intermediate certificate.jpg" width="700"/>
+  
+  <img src="certifi/mh2 hridoy css certificate.jpg" width="700"/>
 </p>
 
 ---
