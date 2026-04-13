@@ -48,6 +48,12 @@
 </p>
 
   ---
+  
+  <p align="center">
+  <img src="certifi/mh2 hridoy java basic certificate.jpg" width="700"/>
+  </p>
+
+  ---
  
   <p align="center">
   <img src="certifi/mh2 hridoy problem solving intermediate certificate.jpg" width="700"/>
