@@ -24,20 +24,12 @@
 
 <h2 align="center">📊 GitHub Stats</h2> 
 
-<p align="center"> <a href="https://github.com/mhhridoy7907"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=mhhridoy7907&show_icons=true&theme=radical&hide_border=true&border_radius=12" height="170"/> </a> 
+<p align="center"> 
   <a href="https://github.com/mhhridoy7907"> 
     <img src="https://streak-stats.demolab.com?user=mhhridoy7907&theme=radical&hide_border=true&border_radius=12" height="170"/> 
   </a> </p>
 
 
-<br>
-
-<h2 align="center">💻 Top Languages</h2>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhhridoy7907&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 <br>
 
