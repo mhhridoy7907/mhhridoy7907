@@ -77,7 +77,10 @@
   <b style="color:#38BDF8;">CSS Certificate</b><br><br>
   <img src="certifi/mh2 hridoy css certificate.jpg" width="700"/>
 </p>
+
+
 ---
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F6FF&center=true&vCenter=true&width=520&lines=🌐+Connect+With+Me+🌐"/>
@@ -135,6 +138,7 @@
 `Digital Marketing:` SEO & Personal Branding
 
 `Artificial Intelligence & Automation:` Prompt Engineering, AI Automation, AI Assistant Building
+
 
 ### Soft Skills
 
