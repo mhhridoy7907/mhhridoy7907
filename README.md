@@ -49,13 +49,21 @@
 
 ---
 
-## 🎓HackerRank Certificates
+## 🎓 HackerRank Certificates 👉 [Click Now](https://www.hackerrank.com/profile/mhhridoy7907)
 
 <p align="center">
   <img src="certifi/mh2 hridoy javascript intermediate certificate.jpg" width="700"/>
-  
+</p>
+
+  ---
+ 
+  <p align="center">
   <img src="certifi/mh2 hridoy problem solving intermediate certificate.jpg" width="700"/>
+  </p>
   
+  ---
+
+  <p align="center">
   <img src="certifi/mh2 hridoy css certificate.jpg" width="700"/>
 </p>
 
@@ -68,6 +76,9 @@
 <p align="center">
 <a href="https://bsky.app/profile/mhhridoy7907.bsky.social">
 <img src="https://cdn.simpleicons.org/bluesky" height="48"/>
+</a>
+<a href="https://www.hackerrank.com/profile/mhhridoy7907">
+<img src="https://cdn.simpleicons.org/hackerrank" height="48"/>
 </a>
 <a href="https://wa.me/8801962388570">
 <img src="https://cdn.simpleicons.org/whatsapp" height="48"/>
