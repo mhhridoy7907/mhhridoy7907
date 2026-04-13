@@ -43,35 +43,40 @@
 
 ## 🎓 HackerRank Certificates 👉 [Click Now](https://www.hackerrank.com/profile/mhhridoy7907)
 
+---
 
-<p align="center"> javascript intermediate certificate
+<p align="center">
+  <b style="color:#FFD700;">JavaScript Intermediate Certificate</b><br><br>
   <img src="certifi/mh2 hridoy javascript intermediate certificate.jpg" width="700"/>
 </p>
 
-  ---
- 
-  <p align="center">  java basic certificate
+---
+
+<p align="center">
+  <b style="color:#00FF7F;">Java Basic Certificate</b><br><br>
   <img src="certifi/mh2 hridoy java basic certificate.jpg" width="700"/>
-  </p>
-
-  ---
-  
-  <p align="center"> Rest api intermediate certificate
-  <img src="certifi/mh2 hridoy rest api intermediate certificate.jpg" width="700"/>
-  </p>
-
-  ---
- 
-  <p align="center"> Problem solving intermediate certificate
-  <img src="certifi/mh2 hridoy problem solving intermediate certificate.jpg" width="700"/>
-  </p>
-  
-  ---
-
-  <p align="center"> css certificate
-  <img src="certifi/mh2 hridoy css certificate.jpg" width="700"/>
 </p>
 
+---
+
+<p align="center">
+  <b style="color:#FF6B6B;">REST API Intermediate Certificate</b><br><br>
+  <img src="certifi/mh2 hridoy rest api intermediate certificate.jpg" width="700"/>
+</p>
+
+---
+
+<p align="center">
+  <b style="color:#A78BFA;">Problem Solving Intermediate Certificate</b><br><br>
+  <img src="certifi/mh2 hridoy problem solving intermediate certificate.jpg" width="700"/>
+</p>
+
+---
+
+<p align="center">
+  <b style="color:#38BDF8;">CSS Certificate</b><br><br>
+  <img src="certifi/mh2 hridoy css certificate.jpg" width="700"/>
+</p>
 ---
 
 <p align="center">
