@@ -49,6 +49,16 @@
 
 ---
 
+## 🎓HackerRank Certificates
+
+<p align="center">
+  <img src="certifi/mh2 hridoy javascript intermediate certificate.jpg" width="300"/>
+  <img src="certifi/mh2 hridoy problem solving intermediate certificate.jpg" width="300"/>
+  <img src="certifi/mh2 hridoy css certificate.jpg" width="300"/>
+</p>
+
+---
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F6FF&center=true&vCenter=true&width=520&lines=🌐+Connect+With+Me+🌐"/>
 </p>
