@@ -30,6 +30,9 @@
   </a> </p>
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhhridoy7907&show_icons=true&theme=gotham" alt="mhhridoy7907" />
+</p>
 
 <br>
 
