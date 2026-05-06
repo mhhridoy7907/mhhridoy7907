@@ -43,9 +43,12 @@
 
 ---
 
-## 🎓 HackerRank Certificates  <a href="https://www.hackerrank.com/profile/mhhridoy7907"> <img src="bb.png" width="100" height="38"/>
-
----
+## 🎓 HackerRank Certificates
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/mhhridoy7907">
+    <img src="bb.png" width="120"/>
+  </a>
+</p>
 
 <p align="center">
   <b style="color:#FFD700;">JavaScript Intermediate Certificate</b><br><br>
