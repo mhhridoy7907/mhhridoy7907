@@ -139,38 +139,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://pinterest.com/mhhridoy7907">
-    <img src="https://cdn.simpleicons.org/pinterest" height="45"/>
-  </a>
-  <a href="https://pinterest.com/mhhridoy7907">
-    <img src="bb.png" width="90" height="35"/>
-  </a>
-
-  <a href="https://tiktok.com/@mh2hridoy__">
-    <img src="https://cdn.simpleicons.org/tiktok" height="45"/>
-  </a>
-  <a href="https://tiktok.com/@mh2hridoy__">
-    <img src="bb.png" width="90" height="35"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://twitch.tv/mhhridoy7907">
-    <img src="https://cdn.simpleicons.org/twitch" height="45"/>
-  </a>
-  <a href="https://twitch.tv/mhhridoy7907">
-    <img src="bb.png" width="90" height="35"/>
-  </a>
-
-  <a href="https://x.com/mhhridoy7907">
-    <img src="https://cdn.simpleicons.org/x" height="45"/>
-  </a>
-  <a href="https://x.com/mhhridoy7907">
-    <img src="bb.png" width="90" height="35"/>
-  </a>
-</p>
-
 ---
 
 ## IT Skills & Soft Skills
