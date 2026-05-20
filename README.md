@@ -170,42 +170,26 @@
 ---
 
 
+# Educational Qualifications
 
-##  Education
+## Academic Education
 
-### Bachelor of Science (BSc) in Computer Science & Engineering (CSE)
-**Institute:** **RTM Al-Kabir Technical University**  
-📅 2026 - Present (4 Years Program)
-
-### Higher Secondary Certificate (HSC)
-**Institute:** **Universal College, Sylhet**  
-📅 2023
-
-### Secondary School Certificate (SSC)
-**Institute:** **The Aided High School, Sylhet**  
-📅 2021
+| Degree | Institute | Year | Details |
+|--------|----------|------|--------|
+| BSc in Computer Science & Engineering (CSE) | RTM Al-Kabir Technical University | 2026 – Present | 4-Year Program |
+| Higher Secondary Certificate (HSC) | Universal College, Sylhet | 2023 | Higher Secondary Certificate |
+| Secondary School Certificate (SSC) | The Aided High School, Sylhet | 2021 | Secondary School Certificate |
 
 ---
 
 ## IT Courses & Certifications
 
-### ICT & Basic Application Course
-**Institute:** **Department of Youth Development**  
-📅 2025  
-⏳ 6 Months Training Program
-
-###  SEO, Personal Branding & Prompt Engineering
-**Institute:** **Times IT**  
-📅 2024
-
-###  Digital Marketing
-**Institute:** **The IT Aid**  
-📅 2023
-
-###  Office Application Course
-**Institute:** **Skill Development Training Center**  
-📅 2022
-
+| Course | Institute | Year | Duration |
+|--------|----------|------|----------|
+| ICT & Basic Application Course | Department of Youth Development | 2025 | 6 Months |
+| SEO, Personal Branding & Prompt Engineering | Times IT | 2024 |  6 Months  |
+| Digital Marketing | The IT Aid | 2023 | 6 Months  |
+| Office Application Course | Skill Development Training Center | 2022 | 6 Months  |
 ---
 
 
