@@ -43,6 +43,35 @@
 
 ---
 
+
+
+
+
+# Educational Qualifications
+
+## Academic Education
+
+| Degree | Institute | Year | Details |
+|--------|----------|------|--------|
+| BSc in Computer Science & Engineering (CSE) | RTM Al-Kabir Technical University | 2026 – Present | 4-Year Program |
+| Higher Secondary Certificate (HSC) | Universal College, Sylhet | 2023 | Higher Secondary Certificate |
+| Secondary School Certificate (SSC) | The Aided High School, Sylhet | 2021 | Secondary School Certificate |
+
+---
+
+## IT Courses & Certifications
+
+| Course | Institute | Year | Duration |
+|--------|----------|------|----------|
+| ICT & Basic Application Course | Department of Youth Development | 2025 | 6 Months |
+| SEO, Personal Branding & Prompt Engineering | Times IT | 2024 |  6 Months  |
+| Digital Marketing | The IT Aid | 2023 | 6 Months  |
+| Office Application Course | Skill Development Training Center | 2022 | 6 Months  |
+---
+
+
+
+
 ## 🎓 HackerRank Certificates
 <p align="center">
   <a href="https://www.hackerrank.com/profile/mhhridoy7907">
@@ -168,33 +197,6 @@
 `Teamwork:` Collaborative project experience
 
 ---
-
-
-# Educational Qualifications
-
-## Academic Education
-
-| Degree | Institute | Year | Details |
-|--------|----------|------|--------|
-| BSc in Computer Science & Engineering (CSE) | RTM Al-Kabir Technical University | 2026 – Present | 4-Year Program |
-| Higher Secondary Certificate (HSC) | Universal College, Sylhet | 2023 | Higher Secondary Certificate |
-| Secondary School Certificate (SSC) | The Aided High School, Sylhet | 2021 | Secondary School Certificate |
-
----
-
-## IT Courses & Certifications
-
-| Course | Institute | Year | Duration |
-|--------|----------|------|----------|
-| ICT & Basic Application Course | Department of Youth Development | 2025 | 6 Months |
-| SEO, Personal Branding & Prompt Engineering | Times IT | 2024 |  6 Months  |
-| Digital Marketing | The IT Aid | 2023 | 6 Months  |
-| Office Application Course | Skill Development Training Center | 2022 | 6 Months  |
----
-
-
----
-
 
 ## 🚀 Featured Projects
 
