@@ -169,6 +169,49 @@
 
 ---
 
+
+
+##  Education
+
+### Bachelor of Science (BSc) in Computer Science & Engineering (CSE)
+**RTM Al-Kabir Technical University**  
+📅 2026 - Present (4 Years Program)
+
+### Higher Secondary Certificate (HSC)
+**Universal College, Sylhet**  
+📅 2023
+
+### Secondary School Certificate (SSC)
+**The Aided High School, Sylhet**  
+📅 2021
+
+---
+
+## IT Courses & Certifications
+
+### ICT & Basic Application Course
+**Department of Youth Development**  
+📅 2025  
+⏳ 6 Months Training Program
+
+###  SEO, Personal Branding & Prompt Engineering
+**Times IT**  
+📅 2024
+
+###  Digital Marketing
+**The IT Aid**  
+📅 2023
+
+###  Office Application Course
+**Skill Development Training Center**  
+📅 2022
+
+---
+
+
+---
+
+
 ## 🚀 Featured Projects
 
 ### 🤖 AI Virtual GF
