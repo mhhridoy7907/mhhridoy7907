@@ -74,13 +74,7 @@
 
 ## 💻 IT Certifications
 
-<p align="center">
-  <a href="https://www.hackerrank.com/profile/mhhridoy7907">
-    <img src="bb.png" width="120"/>
-  </a>
-</p>
 
----
 <p align="center">
   <img src="certifi/mh2 hridoy (2).jpeg" width="400"/>
   <img src="certifi/mh2 hridoy (3).jpeg" width="400"/>
@@ -108,60 +102,40 @@
 ---
 
 
-
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F6FF&center=true&vCenter=true&width=520&lines=🌐+Connect+With+Me+🌐"/>
 </p>
 
 <p align="center">
   <a href="https://wa.me/8801962388570">
-    <img src="https://cdn.simpleicons.org/whatsapp" height="45"/>
-  </a>
-  <a href="https://wa.me/8801962388570">
-    <img src="bb.png" width="90" height="35"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 
   <a href="mailto:mhhridoy7907@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" height="45"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="mailto:mhhridoy7907@gmail.com">
-    <img src="bb.png" width="90" height="35"/>
+
+  <a href="https://www.youtube.com/@mh2_hridoy">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@mh2_hridoy">
-    <img src="https://cdn.simpleicons.org/youtube" height="45"/>
-  </a>
-  <a href="https://www.youtube.com/@mh2_hridoy">
-    <img src="bb.png" width="90" height="35"/>
+  <a href="https://www.hackerrank.com/profile/mhhridoy7907">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 
-  <a href="https://www.hackerrank.com/profile/mhhridoy7907">
-    <img src="https://cdn.simpleicons.org/hackerrank" height="45"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/mhhridoy7907">
-    <img src="bb.png" width="90" height="35"/>
-  </a>
-</p>
-
-<p align="center">
   <a href="https://bsky.app/profile/mhhridoy7907.bsky.social">
-    <img src="https://cdn.simpleicons.org/bluesky" height="45"/>
-  </a>
-  <a href="https://bsky.app/profile/mhhridoy7907.bsky.social">
-    <img src="bb.png" width="90" height="35"/>
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/>
   </a>
 
   <a href="https://www.facebook.com/mh.hridoy.567130">
-    <img src="https://cdn.simpleicons.org/facebook" height="45"/>
-  </a>
-  <a href="https://www.facebook.com/mh.hridoy.567130">
-    <img src="bb.png" width="90" height="35"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
+
+
+
 
 ---
 
