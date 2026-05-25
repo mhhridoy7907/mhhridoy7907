@@ -72,44 +72,36 @@
 
 
 
-## 🎓 HackerRank Certificates
+## 💻 IT Certifications
+
 <p align="center">
   <a href="https://www.hackerrank.com/profile/mhhridoy7907">
     <img src="bb.png" width="120"/>
   </a>
 </p>
 
+---
 <p align="center">
-  <b style="color:#FFD700;">JavaScript Intermediate Certificate</b><br><br>
-  <img src="certifi/mh2 hridoy javascript intermediate certificate.jpg" width="700"/>
+  <img src="certifi/mh2 hridoy (2).jpeg" width="400"/>
+  <img src="certifi/mh2 hridoy (3).jpeg" width="400"/>
 </p>
 
----
-
 <p align="center">
-  <b style="color:#00FF7F;">Java Basic Certificate</b><br><br>
-  <img src="certifi/mh2 hridoy java basic certificate.jpg" width="700"/>
+  <img src="certifi/mh2 hridoy (4).jpeg" width="400"/>
+  <img src="certifi/mh2 hridoy (5).jpeg" width="400"/>
 </p>
 
----
 
 <p align="center">
-  <b style="color:#FF6B6B;">REST API Intermediate Certificate</b><br><br>
-  <img src="certifi/mh2 hridoy rest api intermediate certificate.jpg" width="700"/>
+  <b style="color:#FF6B6B;">
+  <img src="certifi/mh2 hridoy rest api intermediate certificate.jpg" width="400"/>  <img src="certifi/mh2 hridoy problem solving intermediate certificate.jpg" width="400"/>
 </p>
 
----
+
+## Work Experience Certificate
 
 <p align="center">
-  <b style="color:#A78BFA;">Problem Solving Intermediate Certificate</b><br><br>
-  <img src="certifi/mh2 hridoy problem solving intermediate certificate.jpg" width="700"/>
-</p>
-
----
-
-<p align="center">
-  <b style="color:#38BDF8;">CSS Certificate</b><br><br>
-  <img src="certifi/mh2 hridoy css certificate.jpg" width="700"/>
+  <img src="certifi/mh2 hridoy (1).jpeg" width="400"/>
 </p>
 
 
