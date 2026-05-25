@@ -1,4 +1,4 @@
-![preview](mh2HridoyGithub.jpg)
+![preview](m2.jpg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F6FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+MURAD+HASAN+HRIDOY;Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things;Machine+learning+enthusiast;Kaggle+community+member)](https://git.io/typing-svg)
 
