@@ -28,7 +28,7 @@
 
 <p align="center"> 
   <a href="https://github.com/mhhridoy7907"> 
-    <img src="https://streak-stats.demolab.com?user=mhhridoy7907&theme=radical&hide_border=true&border_radius=12" height="170"/> 
+    <img src="https://streak-stats.demolab.com?user=mhhridoy7907&theme=github-dark&hide_border=true&border_radius=12" height="170"/> 
   </a> </p>
 
 
