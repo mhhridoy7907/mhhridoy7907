@@ -24,7 +24,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Steak</h2> 
+<h2 align="center">📊 GitHub Streak</h2> 
 
 <p align="center"> 
   <a href="https://github.com/mhhridoy7907"> 
