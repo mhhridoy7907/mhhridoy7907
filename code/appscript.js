@@ -1,27 +1,9 @@
-/**
- * MH Hridoy Portfolio Backend
- * Google Apps Script Web App
- *
- * Features:
- * - Contact Form Submissions → Google Sheets + Email Notification
- * - CORS-friendly JSON responses
- *
- * Setup:
- * 1. Create a Google Sheet and paste its ID into SPREADSHEET_ID below
- * 2. Deploy as Web App → Execute as: (your email) → Anyone can access
- * 3. Paste the exec URL into SCRIPT_URL in portfolio.html
- */
 
-// ============================================================
-// CONFIGURATION
-// ============================================================
-const SPREADSHEET_ID  = '1D0I4CWwNQoWHHvDTfxAGj86pDSlmbZMxUhySJ4WPMYc';
+const SPREADSHEET_ID  = '**********';
 const CONTACT_SHEET   = 'Contact Submissions';
-const OWNER_EMAIL     = 'mhhridoy7907@gmail.com';
+const OWNER_EMAIL     = 'mh******7@gmail.com';
 
-// ============================================================
-// GET — Health check
-// ============================================================
+
 function doGet(e) {
   try {
     return corsResponse({
@@ -35,9 +17,6 @@ function doGet(e) {
   }
 }
 
-// ============================================================
-// POST — Contact form submission
-// ============================================================
 function doPost(e) {
   try {
     const raw = e.postData && e.postData.contents;
@@ -67,13 +46,10 @@ function doPost(e) {
   }
 }
 
-// ============================================================
-// CONTACT FORM HANDLER
-// ============================================================
 function handleContact(data, meta) {
   const sheet = getOrCreateSheet(CONTACT_SHEET);
 
-  // Create header row on first run
+  
   if (sheet.getLastRow() === 0) {
     sheet.appendRow([
       'Timestamp', 'Date', 'Time',
@@ -104,9 +80,6 @@ function handleContact(data, meta) {
   return { action: 'contact', saved: true, message: 'Contact form submitted successfully' };
 }
 
-// ============================================================
-// EMAIL NOTIFICATION
-// ============================================================
 function sendContactEmail(data, meta) {
   try {
     const subject = '📩 New Contact: ' + sanitize(data.subject || 'Portfolio Inquiry');
@@ -184,9 +157,7 @@ function buildContactEmailHTML(data, meta) {
   `;
 }
 
-// ============================================================
-// UTILITIES
-// ============================================================
+
 function getOrCreateSheet(name) {
   const ss    = SpreadsheetApp.openById(SPREADSHEET_ID);
   let sheet   = ss.getSheetByName(name);
@@ -215,14 +186,7 @@ function corsResponse(obj) {
     .setMimeType(ContentService.MimeType.JSON);
 }
 
-// ============================================================
-// ADMIN / DEBUG — Run manually from Script Editor
-// ============================================================
 
-/**
- * Full setup test — run this once after deploying.
- * Check View → Executions for results.
- */
 function testSetup() {
   Logger.log('=== MH HRIDOY PORTFOLIO — SETUP TEST ===');
 
@@ -247,11 +211,7 @@ function testSetup() {
   Logger.log('=== TEST COMPLETE ===');
 }
 
-/**
- * Reminder: after any code change, go to
- * Deploy → Manage Deployments → Edit → New version → Deploy
- * The URL stays the same; only the version updates.
- */
+
 function deployReminder() {
   Logger.log('Deploy → Manage Deployments → Edit → New version → Deploy');
 }
