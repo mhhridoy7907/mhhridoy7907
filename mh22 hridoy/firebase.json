@@ -1,16 +1,64 @@
 {
-  "hosting": {
-    "public": ".",
-    "ignore": [
-      "firebase.json",
-      "**/.*",
-      "**/node_modules/**"
-    ],
-    "rewrites": [
-      {
-        "source": "**",
-        "destination": "/index.html"
+  "rules": {
+    ".read": false,
+    ".write": false,
+
+    "portfolio": {
+
+      "home": {
+        ".read": true,
+        ".write": "auth != null"
+      },
+
+      "about": {
+        ".read": true,
+        ".write": "auth != null"
+      },
+
+      "skills": {
+        ".read": true,
+        "$skillId": {
+          ".write": "auth != null"
+        }
+      },
+
+      "projects": {
+        ".read": true,
+        "$projectId": {
+          ".write": "auth != null"
+        }
+      },
+
+      "certificates": {
+        ".read": true,
+        "$certId": {
+          ".write": "auth != null"
+        }
+      },
+
+      "research": {
+        ".read": true,
+        "$researchId": {
+          ".write": "auth != null"
+        }
+      },
+
+      "contact": {
+        ".read": true,
+        ".write": "auth != null"
+      },
+
+      "messages": {
+        ".read": "auth != null",
+        "$messageId": {
+          ".write": true
+        }
+      },
+
+      "settings": {
+        ".read": true,
+        ".write": "auth != null"
       }
-    ]
+    }
   }
 }
