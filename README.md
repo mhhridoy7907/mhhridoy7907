@@ -63,8 +63,7 @@ I'm a passionate **Full-Stack Developer** and **AI Enthusiast** with over 2 year
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mhhridoy7907&theme=github-dark&hide_border=true&border_radius=12)](https://github.com/mhhridoy7907)
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mhhridoy7907&theme=github-dark&hide_border=true&area=true)](https://github.com/mhhridoy7907)
-
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mhhridoy7907&theme=github-dark&hide_border=true&area=true)](https://github-readme-activity-graph.vercel.app/)
 </div>
 
 ---
