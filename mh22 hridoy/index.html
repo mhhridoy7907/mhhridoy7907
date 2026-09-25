@@ -3,9 +3,12 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>MH Hridoy</title>
-  <meta name="description" content="Murad Hasan Hridoy - Full-Stack Developer specializing in Firebase, Node.js, AI integration, and scalable web applications." />
-  <meta name="author" content="Murad Hasan Hridoy" />
+  <title>mh2 hridoy</title>
+ <meta name="description" content="Official portfolio of MH2 HRIDOY (Murad Hasan Hridoy). Full-Stack Developer specializing in Firebase, JavaScript, Node.js, AI integration, Web Development, Android Apps, and Modern UI Design."/>
+
+<meta name="keywords" content="mh2 hridoy, mh2, software engineer mh2 hridoy, Murad Hasan Hridoy, MH Hridoy, Full Stack Developer, Firebase Developer, JavaScript Developer, Node.js, AI Developer, Web Developer Bangladesh, Portfolio, Frontend Developer, Backend Developer, HTML, CSS, JavaScript, React, Firebase Hosting, SEO, Android Developer, software engineer sylhet"/>
+  
+  <meta name="author" content="MH2 HRIDOY (Murad Hasan Hridoy)" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://mhhridoy.dev/" />
   <meta name="theme-color" content="#030712" />
@@ -16,14 +19,15 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" />
 
-  <link rel="stylesheet" href="style/web.css">
- 
+<link rel="stylesheet" href="style/web.css">
+
 </head>
 <body>
   <a href="#main-content" class="skip-link">Skip to content</a>
   <div id="scroll-progress" role="progressbar" aria-label="Page scroll progress"></div>
   <div id="cursor" aria-hidden="true"></div>
   <div id="cursor-dot" aria-hidden="true"></div>
+  <div id="liquid-trail" aria-hidden="true"></div>
 
   <div id="loading-screen" role="status" aria-label="Loading">
     <div class="loader-name">MH Hridoy</div>
@@ -79,6 +83,8 @@
           <div class="hero-visual">
             <div class="hero-photo-wrap">
               <div class="photo-glow" aria-hidden="true"></div>
+              <div class="photo-back-card photo-back-card-a" aria-hidden="true"></div>
+              <div class="photo-back-card photo-back-card-b" aria-hidden="true"></div>
               <div class="photo-frame" aria-hidden="true"></div>
               <div class="photo-frame-mask" aria-hidden="true"></div>
               <img src="https://i.pinimg.com/736x/ce/58/c1/ce58c1d1278349c500426a7ef0f6908f.jpg" alt="Murad Hasan Hridoy" class="hero-photo" loading="eager" width="340" height="453" />
@@ -109,7 +115,7 @@
             <div class="about-text">
               <p>I'm <strong>Murad Hasan Hridoy</strong>, a self-driven Full-Stack Developer from Sylhet, Bangladesh. I specialise in building scalable, real-time web applications with Firebase, Node.js, Express.js, and MongoDB.</p>
               <p>Currently pursuing a Bachelor's degree in Computer Science &amp; Engineering at RTM Al-Kabir Technical University, with a strong focus on building production-grade software, modern web applications, and contributing to open-source projects on GitHub.</p>
-              <p>My focus is on integrating AI into everyday products — making them smarter, faster, and more useful. I'm always open to freelance projects and full-time opportunities worldwide.</p>
+              <p>My focus is on integrating AI into everyday products making them smarter, faster, and more useful. I'm always open to freelance projects and full-time opportunities worldwide.</p>
               <div class="about-chips">
                 <span class="tag tag-violet"><i class="fa-solid fa-location-dot"></i> Sylhet, BD</span>
                 <span class="tag tag-green"><i class="fa-solid fa-graduation-cap"></i> RTM AKTU</span>
@@ -159,12 +165,10 @@
       </div>
     </section>
 
-    <!-- ====== PROJECTS (Dynamic from Firebase) ====== -->
     <section id="projects" class="section" aria-label="Projects">
       <div class="container">
-        <div class="reveal"><span class="section-eyebrow">portfolio</span><h2 class="section-heading">Featured <span class="hi">Projects</span></h2><p class="section-sub">Real-world applications I've built and shipped — loaded live from Firebase.</p></div>
+        <div class="reveal"><span class="section-eyebrow">portfolio</span><h2 class="section-heading">Featured <span class="hi">Projects</span></h2><p class="section-sub">Real-world applications I've built and shipped loaded live from Firebase.</p></div>
         <div class="projects-grid" id="projectsGrid">
-          <!-- skeleton loading state injected here, then replaced by realtime data -->
         </div>
         <div style="text-align:center; margin-top:3rem;" class="reveal">
           <a href="https://github.com/mhhridoy7907?tab=repositories" target="_blank" rel="noopener noreferrer" class="btn btn-ghost"><i class="fa-brands fa-github"></i> All Repositories</a>
@@ -178,8 +182,43 @@
         <div class="github-layout reveal reveal-delay-1">
           <div id="github-profile-section"></div>
           <div class="github-right">
-            <div class="gh-embed-card reveal reveal-delay-2"><div class="gh-embed-label">Contribution Streak</div><div class="gh-embed-img"><img src="https://streak-stats.demolab.com?user=mhhridoy7907&theme=github-dark&hide_border=true" alt="GitHub Streak" loading="lazy" /></div></div>
-            <div class="gh-embed-card reveal reveal-delay-3"><div class="gh-embed-label">Contribution Graph</div><div class="gh-embed-img"><img src="https://github-readme-activity-graph.vercel.app/graph?username=mhhridoy7907&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" loading="lazy" /></div></div>
+
+            <div class="gitista-card" aria-label="Gitista contributor ranking">
+              <div class="gitista-head">
+                <div class="gitista-title-wrap">
+                  <div class="gitista-logo"><i class="fa-solid fa-ranking-star" aria-hidden="true"></i></div>
+                  <div>
+                    <div class="gitista-title">Gitista Ranking</div>
+                    <div class="gitista-subtitle">GitHub contributor ranking</div>
+                  </div>
+                </div>
+                <span class="gitista-live">Bangladesh</span>
+              </div>
+
+              <div class="gitista-profile">
+                <img class="gitista-avatar" src="https://github.com/mhhridoy7907.png" alt="MH2 HRIDOY" loading="lazy" />
+                <div>
+                  <div class="gitista-name">MH2 HRIDOY</div>
+                  <div class="gitista-handle">@mhhridoy7907</div>
+                  <div class="gitista-location"><i class="fa-solid fa-location-dot" aria-hidden="true"></i> Bangladesh · Sylhet City</div>
+                </div>
+              </div>
+
+              <div class="gitista-ranks">
+                <div class="gitista-rank"><div class="gitista-rank-label">Bangladesh Rank</div><div class="gitista-rank-value">#11</div></div>
+                <div class="gitista-rank"><div class="gitista-rank-label">Global Rank</div><div class="gitista-rank-value">#5,367</div></div>
+              </div>
+
+              <div class="gitista-metrics">
+                <div class="gitista-metric"><div class="gitista-metric-value">383</div><div class="gitista-metric-label">Contributions</div></div>
+                <div class="gitista-metric"><div class="gitista-metric-value">2.35K</div><div class="gitista-metric-label">Followers</div></div>
+              </div>
+
+              <div class="gitista-footer">
+                <div class="gitista-note">Rankings and contribution data are provided by Gitista.</div>
+                <a class="gitista-link" href="https://gitista.com/search/?country=BD&amp;handle=mhhridoy7907" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i> View Gitista</a>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -191,7 +230,7 @@
         <div class="contact-layout">
           <div class="reveal reveal-delay-1">
             <h3 class="contact-info-title">Reach out directly</h3>
-            <p class="contact-info-sub">I respond to all messages within 24 hours. Whether it's a project, a question, or just a hello — I'm here.</p>
+            <p class="contact-info-sub">I respond to all messages within 24 hours. Whether it's a project, a question, or just a hello I'm here.</p>
             <div class="contact-channels">
               <a href="mailto:mhhridoy7907@gmail.com" class="contact-channel"><div class="channel-icon" style="background:rgba(234,67,53,0.12);"><i class="fa-solid fa-envelope" style="color:#ea4335"></i></div><div><div class="channel-type">Email</div><div class="channel-value">mhhridoy7907@gmail.com</div></div></a>
               <a href="https://wa.me/8801962388570" target="_blank" rel="noopener noreferrer" class="contact-channel"><div class="channel-icon" style="background:rgba(37,211,102,0.12);"><i class="fa-brands fa-whatsapp" style="color:#25d366"></i></div><div><div class="channel-type">WhatsApp</div><div class="channel-value">+880 1962-388570</div></div></a>
@@ -267,13 +306,13 @@
 
   <button id="back-to-top" aria-label="Back to top"><i class="fa-solid fa-arrow-up"></i></button>
 
-  <!-- ===== PROJECT DETAIL MODAL ===== -->
   <div id="project-modal-overlay" role="dialog" aria-modal="true" aria-label="Project details">
-    <div class="pmodal" id="pmodal-content"><!-- injected --></div>
+    <div class="pmodal" id="pmodal-content"></div>
   </div>
 
-  
-  
-  <script type="module"  src="script/web.js"> </script>
-</body>
+    
+<script type="module" src="script/web.js"></script>
+
+
+</body>  
 </html>
