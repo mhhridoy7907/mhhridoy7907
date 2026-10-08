@@ -44,16 +44,8 @@ I'm a passionate **Full-Stack Developer** and **AI Enthusiast** with over 2 year
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Frameworks & Platforms
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### Specializations
-![AI & Machine Learning](https://img.shields.io/badge/AI_&_ML-FF6B6B?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00F6FF?style=for-the-badge)
-![Digital Marketing](https://img.shields.io/badge/Digital_Marketing-4285F4?style=for-the-badge)
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-FF1744?style=for-the-badge)
 
 </div>
 
