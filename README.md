@@ -11,7 +11,19 @@
 
 ## 🎯 About Me
 
-I'm a passionate **Full-Stack Developer** and **AI Enthusiast** with over 2 years of hands-on programming experience. I specialize in building intelligent web applications, automation tools, and exploring the frontiers of artificial intelligence. Always eager to learn, innovate, and contribute to the tech community.
+I'm a passionate **Full-Stack Developer, AI Enthusiast, and AI Automation Engineering Learner** focused on building intelligent applications, automating computer tasks, and developing practical AI-powered solutions.
+
+I'm developing **MH2 AI PC Assistant**, my own AI-powered personal assistant designed to simplify everyday computer tasks. Its features include opening applications, sending messages, performing searches, controlling a PC remotely, setting reminders, scheduling messages, and automating tasks.
+
+I'm also developing an AI voice-calling system that uses **VB-CABLE (Virtual Audio Cable)** to route AI-generated speech into the virtual microphone input used during WhatsApp calls, enabling my assistant to deliver automated voice messages during calls.
+
+Currently, I'm learning **AI Automation Engineering** to build intelligent workflows, integrate AI into real-world applications, and develop reliable automation systems that combine software development, voice technology, and artificial intelligence.
+
+My goal is to create innovative AI-powered tools that make everyday tasks smarter, faster, and easier.
+
+**Always learning, building, automating, and innovating.**
+
+**Creator:** MH2 HRIDOY
 
 <div align="center">
   
