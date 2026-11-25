@@ -12,6 +12,8 @@
 
 ## 🎯 About Me
 
+
+
 I'm a passionate **Full-Stack Developer, AI Enthusiast, and AI Automation Engineering Learner** focused on building intelligent applications, automating computer tasks, and developing practical AI-powered solutions.
 
 I'm developing **MH2 AI PC Assistant**, my own AI-powered personal assistant designed to simplify everyday computer tasks. Its features include opening applications, sending messages, performing searches, controlling a PC remotely, setting reminders, scheduling messages, and automating tasks.
