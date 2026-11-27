@@ -184,20 +184,6 @@ My goal is to create innovative AI-powered tools that make everyday tasks smarte
 
 </div>
 
----
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=mhhridoy7907&color=00F6FF&style=for-the-badge)
-  
-  ⭐️ **If you found this profile helpful, please consider giving it a star!**
-  
-  ```
-  Made with ❤️ by Murad Hasan Hridoy
-  ```
-  
-</div>
-
 
 
 
